@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 **Getting Started with Progress Classroom Kit**
 
-*For screenshots, please utilize tutorial-with-pics folder*
+*For screenshots, please utilize "Getting Started with Progress with Windows Download" PDF*
 
 Download Progress for Windows 
 1.	Click this link and download the zip file: 
