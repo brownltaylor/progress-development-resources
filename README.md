@@ -49,7 +49,23 @@ Download Progress for Windows
  
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-**Connecting Progress Project to sports2000 Database Copy**
+**Using the Procedure Editor with sports2000 Database Copy**
+
+1. Ensure that there are no servers running for MySportsDb.db in Proenv. (See: Running and Terminating sports2000 Database Copy).
+2. Open the "GUI Procedure Editor" from the "OpenEdge Explorer" file path. 
+ 
+3.Hover over "Tools" from the toolbar and select "Data Dictionary".
+4. Select the "Connect to an Existing Database" radio button and click "OK".
+5. In the "Physical Name" field, use "Browse..." to find the copy of the sports2000 database. For "Logical Name", type in MySportsDb.db and click "OK".
+ 
+6. Exit the "Data Dictionary" window. Do not make any changes to the table. 
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+**Connecting the Developer Console to sports2000 Database Copy**
+
+*Note: In order to use this database in the Procedure Editor, the server must not be running.*
+
 
 1. Navigate to folder containing copy you created and cd into it 
 2. Run a server for your database *(See: Running and Terminating sports2000 Database Copy)*
