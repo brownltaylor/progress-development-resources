@@ -9,7 +9,7 @@
 Download Progress for Windows 
 1.	Click this link and download the zip file: 
 
-**https://drive.google.com/file/d/15oUffIHhes3_NIZZGmQkooyMPNg0rbZk/view?usp=sharing
+**https://drive.google.com/file/d/15oUffIHhes3_NIZZGmQkooyMPNg0rbZk/view?usp=sharing**
 
 2.	Right click inside the folder and select "Extract All..."
 3.	In the extracted folder, double-click the setup.exe file *(If you cannot see the file extensions, click "View" on the toolbar and click the checkbox "File name extensions" 
