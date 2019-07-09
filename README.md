@@ -21,7 +21,7 @@ Download Progress for Windows
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-**Copying sports2000 Database 
+**Copying sports2000 Database** 
 
 1. Navigate to the file location for OpenEdge Explorer and select "Proenv".
 2. Type in the commands as follows:
@@ -34,7 +34,7 @@ Download Progress for Windows
    ```
 -------------------------------------------------------------------------------------------------------------------------------------
 
-**Running and Terminating sports2000 Database Copy
+**Running and Terminating sports2000 Database Copy**
 
 1. Navigate to the folder containing the copy you created and cd into it 
 2. Type the command as follows: 
@@ -49,7 +49,7 @@ Download Progress for Windows
  
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-**Connecting Progress Project to sports2000 Database Copy
+**Connecting Progress Project to sports2000 Database Copy**
 
 1. Navigate to folder containing copy you created and cd into it 
 2. Run a server for your database *(See: Running and Terminating sports2000 Database Copy)*
